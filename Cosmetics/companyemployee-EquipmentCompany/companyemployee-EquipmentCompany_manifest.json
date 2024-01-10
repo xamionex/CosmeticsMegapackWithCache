@@ -1,0 +1,9 @@
+{
+    "name": "EquipmentCompany",
+    "version_number": "1.2.6",
+    "website_url": "",
+    "description": "Adds theme-fitting cosmetics.",
+    "dependencies": [
+	  "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

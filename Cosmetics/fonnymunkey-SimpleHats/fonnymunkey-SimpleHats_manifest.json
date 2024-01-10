@@ -1,0 +1,9 @@
+{
+    "name": "SimpleHats",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/fonnymunkey/SimpleHats-LethalCompany",
+    "description": "SimpleHats MoreCompany Cosmetic Pack",
+    "dependencies": [
+		"notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

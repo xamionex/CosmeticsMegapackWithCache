@@ -1,0 +1,9 @@
+{
+    "name": "BigBoabyViewerCosmetics",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "A set of cosmetics suggested by bigboaby's viewers for their modpack.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Zorums_Halo_ODST_Cosmetics",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "This mod is an addon for the More Company Mod. It adds 2 cosmetics. An ODST Helmet and a M7S Caseless SMG.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

@@ -1,0 +1,1 @@
+MoreCompany head cosmetics of Chito and Yuuri from Girl's Last Tour (1.0.1 - improved shape slightly)

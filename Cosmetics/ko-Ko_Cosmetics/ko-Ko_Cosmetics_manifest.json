@@ -1,0 +1,9 @@
+{
+    "name": "Ko_Cosmetics",
+    "version_number": "1.0.4",
+    "website_url": "",
+    "description": "A pack that includes cosmetics that do not originally created by me. I just combine them and reupload here for my silly friends to download.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

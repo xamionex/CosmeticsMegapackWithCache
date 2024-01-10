@@ -1,0 +1,9 @@
+{
+    "name": "Fortnite_Furry_Girl_Cosmetics",
+    "version_number": "2.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Adds Fortnite Furry Girl Cosmetics",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

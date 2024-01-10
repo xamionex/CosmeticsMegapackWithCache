@@ -1,0 +1,10 @@
+{
+    "name": "Noah_and_Mio_Mod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Adds several cosmetics for the MoreCompany and MoreSuits mod.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.1",
+	"teamjacob9320984-teamjacob_MoreSuits-1.0.0"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "ComedyAndTragedyMasks",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/burrvuhvurr/Comedy-and-Tragedy-Masks-Lethal-Company-Cosmetics-mod-",
+    "description": "Scare your friends into thinking you're a Masked enemy with these two cosmetics",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.1"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SillyCosmetics",
+  "version_number": "1.8.0",
+  "website_url": "",
+  "description": "Adds additional cosmetics to the game :3",
+  "dependencies": [
+	"notnotnotswipez-MoreCompany-1.7.2",
+	"BepInEx-BepInExPack-5.4.2100"
+  ]
+}

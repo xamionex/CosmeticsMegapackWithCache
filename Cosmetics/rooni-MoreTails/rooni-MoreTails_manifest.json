@@ -1,0 +1,10 @@
+{
+    "name": "MoreTails",
+    "version_number": "1.2.1",
+    "website_url": "https://github.com/Rooni/LC-MoreTails",
+    "description": "Adds some MoreCompany tail cosmetics",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2",
+        "rooni-JiggleUtils-0.1.0"
+    ]
+}

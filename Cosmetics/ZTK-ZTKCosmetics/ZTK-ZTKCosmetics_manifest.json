@@ -1,0 +1,10 @@
+{
+    "name": "ZTKCosmetics",
+    "version_number": "2.0.0",
+    "website_url": "https://github.com/ZechTK/ZTKCosmetics",
+    "description": "Some custom cosmetics for MoreCompany.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

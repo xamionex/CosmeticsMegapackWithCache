@@ -1,0 +1,9 @@
+{
+    "name": "BartamousMaxandCo",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Adds cosmetics for Twitch streamer BartamousMax and some of his friends",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

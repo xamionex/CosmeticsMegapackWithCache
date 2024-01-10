@@ -1,0 +1,10 @@
+{
+  "name": "J3STERsCosmeticsFixed",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "A collection of cosmetics made by J3STER.",
+  "dependencies": [
+	"notnotnotswipez-MoreCompany-1.7.2",
+	"BepInEx-BepInExPack-5.4.2100"
+  ]
+}

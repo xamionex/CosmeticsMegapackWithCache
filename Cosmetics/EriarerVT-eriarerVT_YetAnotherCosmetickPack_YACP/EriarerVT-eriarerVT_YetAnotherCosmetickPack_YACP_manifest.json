@@ -1,0 +1,9 @@
+{
+    "name": "eriarerVT_YetAnotherCosmetickPack_YACP",
+    "version_number": "0.1.3",
+    "website_url": "https://github.com/Eriarer",
+    "description": "Cosmetics made by EriarerVT, a package made for me and my friends and other people to enjoy",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.4"
+    ]
+}

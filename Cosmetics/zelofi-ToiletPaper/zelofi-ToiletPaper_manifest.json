@@ -1,0 +1,9 @@
+{
+    "name": "ToiletPaper",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Toilet paper cosmetic that goes on your head",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

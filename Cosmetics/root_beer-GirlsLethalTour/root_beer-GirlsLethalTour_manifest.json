@@ -1,0 +1,10 @@
+{
+    "name": "GirlsLethalTour",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "MoreCompany head cosmetics of Chito and Yuuri from Girl's Last Tour",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

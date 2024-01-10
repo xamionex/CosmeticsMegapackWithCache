@@ -1,0 +1,10 @@
+{
+  "name": "Happy_Hats",
+  "version_number": "2.0.0",
+  "website_url": "",
+  "description": "NEW YEAR'S HATS UPDATE! Adds new cosmetics to MoreCompany",
+  "dependencies": [
+	"notnotnotswipez-MoreCompany-1.7.2",
+	"BepInEx-BepInExPack-5.4.2100"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "inacraft_cosmetics_megapack",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "cosmetics made by Inacraft up to 37 cosmetics i did not make anything, i simply got permission to upload it",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

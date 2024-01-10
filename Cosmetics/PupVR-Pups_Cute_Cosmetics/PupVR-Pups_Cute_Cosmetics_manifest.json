@@ -1,0 +1,9 @@
+{
+    "name": "Pups_Cute_Cosmetics",
+    "version_number": "1.1.2",
+    "website_url": "https://payhip.com/Pup",
+    "description": "Cosmetics made by pup! Currently has 49 cosmetics.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

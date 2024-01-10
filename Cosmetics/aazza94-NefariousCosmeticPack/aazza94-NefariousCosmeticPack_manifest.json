@@ -1,0 +1,9 @@
+{
+    "name": "NefariousCosmeticPack",
+    "version_number": "1.0.2",
+    "website_url": "https://discord.gg/d5UUJra34z",
+    "description": "Adds several cosmetics for the MoreCompany mod.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.1"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "SaiCosmetics",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Adds a few cosmetics to MoreCompany. Will be updated regularly",
+    "dependencies": [
+		  "notnotnotswipez-MoreCompany-1.5.1"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "MikeysCosmetics",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds new cosmetics using the MoreCompany mod!",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

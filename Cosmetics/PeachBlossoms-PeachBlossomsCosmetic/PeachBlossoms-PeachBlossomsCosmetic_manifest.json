@@ -1,0 +1,9 @@
+{
+  "name": "PeachBlossomsCosmetic",
+  "version_number": "0.1.6",
+  "website_url": "",
+  "description": "A cosmetic pack by Gale Mori for the MoreCompany Lethal Company Mod by notnotnotswipez",
+  "dependencies": [
+    "notnotnotswipez-MoreCompany-1.7.2"
+  ]
+}

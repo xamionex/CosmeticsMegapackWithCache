@@ -1,0 +1,10 @@
+{
+  "name": "Gridian_Cosmetics",
+  "version_number": "1.4.0",
+  "website_url": "",
+  "description": "Silly Cosmetics for MoreCompany. Includes stuff like particles and the Peter Griffin Head.",
+  "dependencies": [
+    "notnotnotswipez-MoreCompany-1.7.2",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

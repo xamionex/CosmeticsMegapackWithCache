@@ -1,0 +1,10 @@
+{
+    "name": "Rooms_Cosmetics",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "TOTAL SKEETY DEATH",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "notnotnotswipez-MoreCompany-1.7.2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FrostyCosmetics",
+  "version_number": "1.0.7",
+  "website_url": "",
+  "description": "Good show, jolly good show! 10+ wacky cosmetics from your favorite games for you and your friends!",
+  "dependencies": [
+	"notnotnotswipez-MoreCompany-1.7.2",
+	"BepInEx-BepInExPack-5.4.2100"
+  ]
+}

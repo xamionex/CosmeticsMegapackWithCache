@@ -1,0 +1,9 @@
+{
+    "name": "Naruto_Cosmetics",
+    "version_number": "2.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Currently adds all major headbands with their rogue counter-parts, a Tobi mask, Gaara's gourd, and Kakashi's and Itachi's anbu masks. More to come!",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Zer0sCosmetics",
+    "version_number": "1.0.4",
+    "website_url": "",
+    "description": "Adds some MoreCompany cosmetics like Dio and Jotaro (Hat and Chain) from JoJo (for now thats all)",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

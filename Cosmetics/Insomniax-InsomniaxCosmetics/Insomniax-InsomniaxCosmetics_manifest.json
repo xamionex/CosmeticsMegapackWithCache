@@ -1,0 +1,9 @@
+{
+    "name": "InsomniaxCosmetics",
+    "version_number": "1.0.5",
+    "website_url": "",
+    "description": "Cosmetics I added in for the homies!",
+    "dependencies": [
+	  "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

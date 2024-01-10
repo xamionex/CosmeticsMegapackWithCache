@@ -1,0 +1,10 @@
+{
+    "name": "Goofy_Ahh_NaeNae_Cosmetics",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Silly Cosmetics cuz I felt like it",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

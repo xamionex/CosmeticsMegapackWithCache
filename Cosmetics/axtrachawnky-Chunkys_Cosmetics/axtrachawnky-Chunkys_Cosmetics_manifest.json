@@ -1,0 +1,9 @@
+{
+    "name": "Chunkys_Cosmetics",
+    "version_number": "1.1.0",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/axtrachawnky/Chunkys_Cosmetics/",
+    "description": "A collection of cosmetics I compiled for friends. Mod uses MoreCompany.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

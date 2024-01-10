@@ -1,0 +1,9 @@
+{
+    "name": "YocowsCosmetics",
+    "version_number": "1.1.1",
+    "website_url": "",
+    "description": "funny hats for funny gamers",
+    "dependencies": [
+	  "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

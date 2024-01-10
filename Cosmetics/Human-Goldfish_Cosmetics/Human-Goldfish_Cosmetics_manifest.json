@@ -1,0 +1,10 @@
+{
+    "name": "Goldfish_Cosmetics",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Many Goldfish Kitchen Cosmetics. Adds Cosmetics from Various Media such as Frieren, Elden Ring, Dragon Ball, And More.",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+	, "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

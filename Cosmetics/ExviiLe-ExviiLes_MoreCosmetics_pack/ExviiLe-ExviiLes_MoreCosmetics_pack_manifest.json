@@ -1,0 +1,9 @@
+{
+    "name": "ExviiLes_MoreCosmetics_pack",
+    "version_number": "1.2.0",
+    "website_url": "",
+    "description": "Adds Cosmetics to More Company That I take the time to make!",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.2"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Julies_Cosmetics",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Some cool accesories!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "notnotnotswipez-MoreCompany-1.7.2"
+  ]
+}
