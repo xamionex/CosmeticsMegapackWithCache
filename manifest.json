@@ -1,6 +1,6 @@
 {
 	"name": "CosmeticMegapackWithCache",
-	"version_number": "1.0.3",
+	"version_number": "1.0.4",
 	"description": "(cached version for AdvancedCompany) 1.2GB - Huge cosmetic megapack for use with AdvancedCompany or MoreCompany",
 	"website_url": "https://github.com/xamionex/CosmeticsMegapackWithCache",
 	"dependencies": ["rooni-JiggleUtils-0.1.0"]

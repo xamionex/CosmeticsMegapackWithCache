@@ -1,4 +1,8 @@
-# 1.0.3
+# 1.0.4
+
+- Fix thunderstore file format
+
+## 1.0.3
 
 - Added [SoloCosmetics by CapyCat](https://thunderstore.io/c/lethal-company/p/CapyCat/SoloCosmetics/)
 - Added [Zorums Halo ODST Cosmetics by Zorum](https://thunderstore.io/c/lethal-company/p/Zorum/Zorums_Halo_ODST_Cosmetics/)
